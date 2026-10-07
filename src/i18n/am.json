@@ -1,0 +1,50 @@
+{
+  "shop": {
+    "title": "የእኛ ሱቅ",
+    "subtitle": "በቀላሉ ይግዙ እና ይክፈሉ",
+    "addToCart": "ወደ ጋሪ ጨምር",
+    "checkout": "ክፍያ ፈጽም",
+    "cart": "ጋሪ",
+    "total": "ጠቅላላ",
+    "emptyCart": "ጋሪዎ ባዶ ነው",
+    "birr": "ብር",
+    "viewCart": "ጋሪ ይመልከቱ",
+    "quantity": "ብዛት",
+    "remove": "አስወግድ"
+  },
+  "products": {
+    "berbere": "በርበሬ",
+    "salt": "ጨው",
+    "soap": "ሳሙና",
+    "diaper": "ዳይፐር",
+    "oil": "ዘይት",
+    "sugar": "ስኳር",
+    "rice": "ሩዝ",
+    "pasta": "ፓስታ"
+  },
+  "payment": {
+    "title": "የክፍያ ዘዴ ይምረጡ",
+    "telebirr": "ቴሌብር",
+    "cbe": "የኢትዮጵያ ንግድ ባንክ",
+    "sendScreenshot": "የክፍያ ስክሪንሾት ላክ",
+    "orderId": "የትዕዛዝ ቁጥር",
+    "instructions": "ክፍያውን ከፈጸሙ በኋላ ስክሪንሾት ወደ ቦት ይላኩ",
+    "accountNumber": "የአካውንት ቁጥር",
+    "accountName": "የአካውንት ስም",
+    "amountToPay": "የሚከፈል መጠን",
+    "step1": "1. ከታች ያለውን የአካውንት ቁጥር በመጠቀም ክፍያ ይፈጽሙ",
+    "step2": "2. ክፍያውን ከፈጸሙ በኋላ ስክሪንሾት ያንሱ",
+    "step3": "3. ከታች ያለውን ቁልፍ ተጭነው ስክሪንሾት ወደ ቦት ይላኩ",
+    "copyAccount": "የአካውንት ቁልፍ ቅዳ",
+    "copied": "ተቀድቷል!",
+    "sendToBot": "ስክሪንሾት ወደ ቦት ላክ",
+    "orderSummary": "የትዕዛዝ ማጠቃለያ",
+    "selectMethod": "የክፍያ ዘዴ ይምረጡ"
+  },
+  "buttons": {
+    "confirm": "አረጋግጥ",
+    "cancel": "ሰርዝ",
+    "back": "ተመለስ",
+    "next": "ቀጥል"
+  }
+}
